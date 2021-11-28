@@ -1,0 +1,29 @@
+.wrapper {
+    max-width: 742px;
+
+}
+.cart img {
+    margin: 0 auto;
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.cart {
+    margin-bottom: 20px;
+}
+.link {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    border: 2px solid;
+    border-color: #116acb;
+    border-radius: 8px;
+    color: #116acb;
+    padding: 11px;
+    font-family: 'Roboto', sans-serif;
+
+}
+@media screen { 
+    
+}
